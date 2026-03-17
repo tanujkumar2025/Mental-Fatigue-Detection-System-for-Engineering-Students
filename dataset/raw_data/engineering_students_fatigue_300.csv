@@ -1,0 +1,301 @@
+student_id,branch,year,sleep_hours,study_hours,screen_time,stress_level,workload,exercise_hours,caffeine_intake,break_frequency,assignment_pressure,feedback_text,fatigue_level
+1,Electrical Engineering,4,8.7,5,8.2,9,3,1.1,1,4,6,Too many assignments and exams causing fatigue,high
+2,Electronics Engineering,2,8.2,4.7,5.4,6,6,0.4,0,1,3,Managing studies but feeling some stress,medium
+3,Civil Engineering,1,6.8,9.2,4.8,9,3,0,1,5,6,Too many assignments and exams causing fatigue,high
+4,Electronics Engineering,3,7.8,6.9,9.7,6,8,0.5,4,5,5,Managing studies but feeling some stress,medium
+5,Electronics Engineering,1,7.1,4,3.5,6,2,2,4,1,2,Managing studies but feeling some stress,medium
+6,Mechanical Engineering,1,6.4,6,2.7,5,9,1.6,1,1,9,Managing studies but feeling some stress,medium
+7,Civil Engineering,2,3.8,4.6,8.2,5,3,1.9,0,3,8,Managing studies but feeling some stress,medium
+8,Civil Engineering,4,7.9,9.5,2.5,2,5,1,1,4,3,Feeling relaxed and focused,low
+9,Civil Engineering,2,7.9,2.1,8.7,8,8,0.2,1,4,8,Too many assignments and exams causing fatigue,high
+10,Electronics Engineering,2,6.8,3.8,5.5,8,2,1.1,1,1,9,Too many assignments and exams causing fatigue,high
+11,Electrical Engineering,2,7.9,4.9,9.3,1,6,0.9,2,2,3,Feeling relaxed and focused,low
+12,Civil Engineering,2,6.9,5.9,7.8,8,5,1.7,4,5,3,Too many assignments and exams causing fatigue,high
+13,Information Technology,3,4.2,8.8,6.9,5,9,0.2,3,5,2,Managing studies but feeling some stress,medium
+14,Electronics Engineering,4,4.6,2.7,9.6,2,5,1,3,1,8,Feeling relaxed and focused,low
+15,Mechanical Engineering,1,4.3,8.4,5.2,2,2,0.3,2,2,1,Feeling relaxed and focused,low
+16,Electrical Engineering,1,5.3,2.4,9.6,6,5,0.6,1,3,8,Managing studies but feeling some stress,medium
+17,Information Technology,4,3.2,8.7,3.1,9,4,1.5,2,1,7,Too many assignments and exams causing fatigue,high
+18,Information Technology,1,6.7,2.4,5.9,1,7,1,2,1,7,Feeling relaxed and focused,low
+19,Mechanical Engineering,4,5,2.1,4.2,6,6,0.8,0,5,3,Managing studies but feeling some stress,medium
+20,Electrical Engineering,1,6.9,7.6,6.3,9,2,0.8,4,1,1,Too many assignments and exams causing fatigue,high
+21,Electronics Engineering,2,5.3,10,3.3,8,5,0.9,3,1,4,Too many assignments and exams causing fatigue,high
+22,Computer Engineering,1,7.1,9.2,8.7,6,7,1.6,1,1,9,Managing studies but feeling some stress,medium
+23,Electrical Engineering,4,5,6.6,8.8,3,7,1.8,3,5,5,Feeling relaxed and focused,low
+24,Mechanical Engineering,4,4.6,9.3,9.6,8,5,1.9,3,3,1,Too many assignments and exams causing fatigue,high
+25,Information Technology,4,6,2,3.2,9,9,1.6,4,3,5,Too many assignments and exams causing fatigue,high
+26,Electronics Engineering,4,7.2,9.8,7,1,4,0.6,3,1,8,Feeling relaxed and focused,low
+27,Electrical Engineering,4,5.1,5.9,5.8,9,3,1.4,3,5,8,Too many assignments and exams causing fatigue,high
+28,Computer Engineering,3,8.6,7.8,4.8,6,4,0.9,2,3,5,Managing studies but feeling some stress,medium
+29,Computer Engineering,3,3.2,8.6,4.8,6,5,0.5,4,3,9,Managing studies but feeling some stress,medium
+30,Civil Engineering,1,5.5,7.7,5.3,4,6,1.7,0,3,1,Feeling relaxed and focused,medium
+31,Civil Engineering,4,8.8,6.3,7.6,1,3,0.1,1,5,4,Feeling relaxed and focused,low
+32,Mechanical Engineering,1,6.3,5.8,6.8,10,2,1.8,3,5,3,Too many assignments and exams causing fatigue,high
+33,Electrical Engineering,4,5.5,8.7,5.7,8,4,0.9,1,1,2,Too many assignments and exams causing fatigue,high
+34,Electrical Engineering,4,6.4,3.6,2.6,2,5,1.3,0,4,8,Feeling relaxed and focused,low
+35,Information Technology,3,6.5,9.7,2.6,1,4,1.3,1,3,7,Feeling relaxed and focused,low
+36,Information Technology,3,7.4,7.7,2,2,3,1.8,0,4,9,Feeling relaxed and focused,low
+37,Information Technology,2,3.8,3.6,9.7,1,8,1.3,2,5,2,Feeling relaxed and focused,low
+38,Civil Engineering,3,4.5,7.9,2,1,4,1.2,3,5,4,Feeling relaxed and focused,low
+39,Electrical Engineering,2,6.5,6.2,2.8,9,2,0.1,0,5,6,Too many assignments and exams causing fatigue,high
+40,Electrical Engineering,2,8.2,7.7,4.5,1,2,1,1,4,3,Feeling relaxed and focused,low
+41,Computer Engineering,2,6.4,8.1,8.5,4,1,0.3,3,5,8,Feeling relaxed and focused,medium
+42,Civil Engineering,2,4.4,2.7,9.7,10,4,1.5,2,1,3,Too many assignments and exams causing fatigue,high
+43,Electronics Engineering,2,7.1,6,8.3,6,9,1,3,5,2,Managing studies but feeling some stress,medium
+44,Civil Engineering,1,7.4,9.5,7.5,7,7,1.4,0,2,3,Managing studies but feeling some stress,high
+45,Electronics Engineering,3,4.4,4.6,6.2,2,7,0.1,2,4,6,Feeling relaxed and focused,low
+46,Computer Engineering,2,5.3,6.8,2.7,6,7,0.2,1,2,2,Managing studies but feeling some stress,medium
+47,Mechanical Engineering,4,6.2,5,9.7,7,8,1.4,2,5,8,Managing studies but feeling some stress,high
+48,Electrical Engineering,3,6,5.6,8.1,10,1,0.1,2,1,1,Too many assignments and exams causing fatigue,high
+49,Computer Engineering,3,5.3,6.4,7.1,10,8,0.1,4,3,7,Too many assignments and exams causing fatigue,high
+50,Electrical Engineering,2,4.8,6.4,8.1,2,4,0,2,5,2,Feeling relaxed and focused,low
+51,Information Technology,1,3.6,3.6,7.8,2,4,1.9,2,1,6,Feeling relaxed and focused,low
+52,Mechanical Engineering,2,3.3,7.5,7.1,10,4,1.5,3,4,2,Too many assignments and exams causing fatigue,high
+53,Mechanical Engineering,1,8.8,2.7,9.8,7,6,0.7,1,2,2,Managing studies but feeling some stress,high
+54,Computer Engineering,4,8.1,3.1,9.2,1,7,0.6,3,2,8,Feeling relaxed and focused,low
+55,Mechanical Engineering,3,5.1,2,7.2,8,6,0.7,3,2,2,Too many assignments and exams causing fatigue,high
+56,Electronics Engineering,4,8.7,2.9,7.5,3,1,1.5,0,4,7,Feeling relaxed and focused,low
+57,Mechanical Engineering,1,7.1,5.8,2.4,6,8,1.3,3,1,3,Managing studies but feeling some stress,medium
+58,Electrical Engineering,1,5.9,6.8,7.4,9,7,0.4,4,4,8,Too many assignments and exams causing fatigue,high
+59,Electrical Engineering,4,6,8.4,2.4,6,6,0.3,4,2,7,Managing studies but feeling some stress,medium
+60,Electrical Engineering,1,3.5,2.9,6.7,9,6,0.2,0,5,8,Too many assignments and exams causing fatigue,high
+61,Electrical Engineering,4,3.6,8.8,10,7,5,1.3,1,3,7,Managing studies but feeling some stress,high
+62,Electronics Engineering,3,6.6,8,6.4,9,6,1.5,1,4,6,Too many assignments and exams causing fatigue,high
+63,Civil Engineering,4,6.3,5.3,5.8,2,9,0.5,3,4,7,Feeling relaxed and focused,low
+64,Information Technology,3,4.3,9.5,4.5,8,9,0,3,1,5,Too many assignments and exams causing fatigue,high
+65,Computer Engineering,4,8.7,9.9,3,8,8,0.2,3,1,7,Too many assignments and exams causing fatigue,high
+66,Electrical Engineering,1,7.7,3.6,7.8,2,9,1.9,1,4,1,Feeling relaxed and focused,low
+67,Mechanical Engineering,4,3.7,5,3.5,4,8,0.6,2,2,1,Feeling relaxed and focused,medium
+68,Electrical Engineering,1,8.6,9.4,2.9,7,8,1.5,4,3,9,Managing studies but feeling some stress,high
+69,Mechanical Engineering,4,8.8,7.8,5.4,4,1,1.2,2,1,5,Feeling relaxed and focused,medium
+70,Information Technology,4,9,2.4,8.4,4,5,0.8,2,2,5,Feeling relaxed and focused,medium
+71,Information Technology,2,3.3,8.3,8,6,4,0.4,1,5,3,Managing studies but feeling some stress,medium
+72,Information Technology,1,7.4,8.6,2.4,10,2,0.2,2,1,5,Too many assignments and exams causing fatigue,high
+73,Mechanical Engineering,2,6.3,8,5.6,6,8,1.2,0,2,3,Managing studies but feeling some stress,medium
+74,Electrical Engineering,1,7.2,8.4,6.2,10,3,1.5,3,2,9,Too many assignments and exams causing fatigue,high
+75,Information Technology,2,8.8,8.6,7.2,3,4,1.3,0,3,9,Feeling relaxed and focused,low
+76,Electronics Engineering,3,7.1,3.5,7.2,9,7,1.1,4,3,6,Too many assignments and exams causing fatigue,high
+77,Mechanical Engineering,4,8,3.9,4.9,10,9,0.1,3,5,1,Too many assignments and exams causing fatigue,high
+78,Mechanical Engineering,1,8.2,7.1,6.5,2,2,1.9,2,2,7,Feeling relaxed and focused,low
+79,Electrical Engineering,1,8,9.3,5.8,6,3,1.6,4,2,7,Managing studies but feeling some stress,medium
+80,Mechanical Engineering,4,5.6,4.5,9.1,7,4,0.6,3,3,4,Managing studies but feeling some stress,high
+81,Mechanical Engineering,1,4.3,6.7,6.2,9,1,2,2,1,8,Too many assignments and exams causing fatigue,high
+82,Information Technology,1,5.4,7.5,5.5,3,7,1.2,0,1,6,Feeling relaxed and focused,low
+83,Electrical Engineering,2,8.4,5.6,5.2,10,2,1.2,3,4,4,Too many assignments and exams causing fatigue,high
+84,Information Technology,1,3.9,7.7,6.6,3,5,1.5,2,3,4,Feeling relaxed and focused,low
+85,Information Technology,3,6.1,9.2,8.4,7,1,1.6,0,4,2,Managing studies but feeling some stress,high
+86,Electrical Engineering,3,4.4,7,6.3,4,3,1.3,4,3,2,Feeling relaxed and focused,medium
+87,Computer Engineering,4,6.5,6.3,7.3,8,2,0.3,4,5,4,Too many assignments and exams causing fatigue,high
+88,Information Technology,1,8.2,5.5,7.9,7,1,0.7,4,2,5,Managing studies but feeling some stress,high
+89,Electronics Engineering,4,8.3,6.6,6.2,5,7,1.9,4,5,8,Managing studies but feeling some stress,medium
+90,Electronics Engineering,3,4.4,4.8,5.4,7,5,0.4,1,3,6,Managing studies but feeling some stress,high
+91,Mechanical Engineering,1,8.4,5.1,9,3,1,0.7,3,2,4,Feeling relaxed and focused,low
+92,Electronics Engineering,1,6.6,6.3,5.3,2,6,0.9,3,1,7,Feeling relaxed and focused,low
+93,Mechanical Engineering,4,5.1,2.5,5.7,6,5,0.9,1,1,8,Managing studies but feeling some stress,medium
+94,Computer Engineering,3,7.2,3.8,9.9,2,3,1.2,2,4,2,Feeling relaxed and focused,low
+95,Electrical Engineering,1,5.9,6.3,2,3,7,1.9,2,3,7,Feeling relaxed and focused,low
+96,Electrical Engineering,4,5.3,5.5,3.5,6,9,0.5,4,3,2,Managing studies but feeling some stress,medium
+97,Electrical Engineering,3,7.2,4.7,5.1,5,9,0.2,0,1,2,Managing studies but feeling some stress,medium
+98,Electronics Engineering,4,4.5,7.8,9.5,8,9,0.4,2,5,8,Too many assignments and exams causing fatigue,high
+99,Computer Engineering,2,5,7.5,2.6,9,2,1.8,0,2,2,Too many assignments and exams causing fatigue,high
+100,Electronics Engineering,1,5.6,3.3,2.1,3,3,1.3,3,5,9,Feeling relaxed and focused,low
+101,Electronics Engineering,2,4.5,9,2.4,10,7,0.6,0,5,1,Too many assignments and exams causing fatigue,high
+102,Computer Engineering,3,5.4,6,2.7,3,5,1.6,3,1,9,Feeling relaxed and focused,low
+103,Computer Engineering,2,6.4,7.9,2.3,3,2,1.7,1,1,1,Feeling relaxed and focused,low
+104,Computer Engineering,2,7.4,6.6,5.8,6,3,1.7,1,1,2,Managing studies but feeling some stress,medium
+105,Computer Engineering,3,7.6,10,6.6,1,6,1.8,4,4,6,Feeling relaxed and focused,low
+106,Electrical Engineering,4,7.9,8,4.2,7,7,0.5,2,5,6,Managing studies but feeling some stress,high
+107,Civil Engineering,2,7.5,7.7,5.2,1,9,1.5,4,3,1,Feeling relaxed and focused,low
+108,Civil Engineering,4,7.1,8.2,2.7,5,1,0.9,3,2,7,Managing studies but feeling some stress,medium
+109,Computer Engineering,2,4.4,3.1,4.7,10,7,1.7,4,4,8,Too many assignments and exams causing fatigue,high
+110,Civil Engineering,4,5.4,3.6,6.2,8,8,1.5,0,3,2,Too many assignments and exams causing fatigue,high
+111,Civil Engineering,3,5.9,7.7,7.9,4,3,1.6,3,5,8,Feeling relaxed and focused,medium
+112,Computer Engineering,2,3.5,6,2,5,4,1.3,1,1,9,Managing studies but feeling some stress,medium
+113,Civil Engineering,3,6.2,8,5.7,4,6,0.4,2,5,6,Feeling relaxed and focused,medium
+114,Electronics Engineering,2,5.6,2.8,4.4,4,7,1.1,3,2,5,Feeling relaxed and focused,medium
+115,Mechanical Engineering,3,7.8,6.3,8.8,8,4,2,3,4,9,Too many assignments and exams causing fatigue,high
+116,Mechanical Engineering,3,8.9,5,7.7,2,8,1.9,0,4,9,Feeling relaxed and focused,low
+117,Computer Engineering,2,6.3,5.7,6.7,1,5,0.1,2,2,1,Feeling relaxed and focused,low
+118,Electrical Engineering,2,4.9,6.8,4.2,3,1,0.3,1,3,3,Feeling relaxed and focused,low
+119,Computer Engineering,2,3.3,6,9.3,9,4,0.3,3,3,9,Too many assignments and exams causing fatigue,high
+120,Electrical Engineering,1,8.5,6.3,2.4,4,3,1.5,3,4,2,Feeling relaxed and focused,medium
+121,Mechanical Engineering,4,8.5,5.9,2.9,10,9,1.6,0,4,4,Too many assignments and exams causing fatigue,high
+122,Computer Engineering,1,4.5,5.3,5.1,5,8,0.4,4,1,4,Managing studies but feeling some stress,medium
+123,Information Technology,1,7.2,8.2,3,2,1,1,1,3,2,Feeling relaxed and focused,low
+124,Electronics Engineering,3,3.5,2.1,9.7,4,6,1.7,2,2,3,Feeling relaxed and focused,medium
+125,Civil Engineering,2,4,6.8,8.4,2,9,1.5,3,3,3,Feeling relaxed and focused,low
+126,Electrical Engineering,4,4.3,6.5,4.1,2,7,1.1,3,1,1,Feeling relaxed and focused,low
+127,Information Technology,3,4.8,7.7,6.7,4,4,1.2,1,4,6,Feeling relaxed and focused,medium
+128,Civil Engineering,1,9,6.8,9.9,6,1,1,4,4,8,Managing studies but feeling some stress,medium
+129,Civil Engineering,2,7.2,8.6,9.1,7,2,0.6,3,1,3,Managing studies but feeling some stress,high
+130,Computer Engineering,3,5.3,9.7,6.8,10,5,1.1,1,2,5,Too many assignments and exams causing fatigue,high
+131,Civil Engineering,2,7.4,4.7,9.2,3,5,1.4,0,4,1,Feeling relaxed and focused,low
+132,Electronics Engineering,3,8.5,3.8,9.9,3,8,1.7,4,5,7,Feeling relaxed and focused,low
+133,Information Technology,2,8.8,5.4,7.9,10,6,1.3,2,4,1,Too many assignments and exams causing fatigue,high
+134,Civil Engineering,1,3.3,4.3,2.5,6,8,1.5,3,5,9,Managing studies but feeling some stress,medium
+135,Computer Engineering,4,5.4,6.9,5.2,3,2,0.3,1,1,8,Feeling relaxed and focused,low
+136,Electronics Engineering,1,3.6,9.3,8.7,2,3,0.9,0,1,7,Feeling relaxed and focused,low
+137,Mechanical Engineering,4,5,3.1,3.8,8,6,0,2,4,7,Too many assignments and exams causing fatigue,high
+138,Information Technology,2,4,2.8,8.6,5,3,0.5,1,3,5,Managing studies but feeling some stress,medium
+139,Civil Engineering,3,6.9,4,3,1,6,1.5,1,5,5,Feeling relaxed and focused,low
+140,Computer Engineering,1,5.3,7.8,2.4,3,6,2,2,2,5,Feeling relaxed and focused,low
+141,Mechanical Engineering,4,4.4,6.7,5.1,10,2,0.2,0,4,1,Too many assignments and exams causing fatigue,high
+142,Mechanical Engineering,1,4.6,2.8,2.3,8,7,0.8,0,2,8,Too many assignments and exams causing fatigue,high
+143,Electrical Engineering,4,5.2,9.4,9.7,4,2,1.6,4,4,1,Feeling relaxed and focused,medium
+144,Electronics Engineering,1,4.6,8.3,8.6,7,6,0.4,3,3,4,Managing studies but feeling some stress,high
+145,Civil Engineering,4,5.7,2.2,8.4,10,1,1.1,2,3,9,Too many assignments and exams causing fatigue,high
+146,Computer Engineering,4,3.2,7.2,7,2,3,1.5,2,3,9,Feeling relaxed and focused,low
+147,Electrical Engineering,2,4.7,8.2,3.7,7,2,1.2,2,3,5,Managing studies but feeling some stress,high
+148,Electronics Engineering,4,5.5,5,6.1,5,7,0.4,0,1,4,Managing studies but feeling some stress,medium
+149,Electrical Engineering,2,6.6,2.6,6.8,5,4,0.7,3,1,3,Managing studies but feeling some stress,medium
+150,Information Technology,4,4.6,2.6,6.2,6,8,1.6,4,5,3,Managing studies but feeling some stress,medium
+151,Electronics Engineering,3,3.8,2.8,4.1,9,6,1.1,1,2,5,Too many assignments and exams causing fatigue,high
+152,Electronics Engineering,3,3.5,8.7,6.1,6,4,0,1,4,1,Managing studies but feeling some stress,medium
+153,Civil Engineering,3,8.6,9.3,5.9,8,5,1.5,2,4,5,Too many assignments and exams causing fatigue,high
+154,Electronics Engineering,4,5.5,3,10,7,9,0.1,3,1,6,Managing studies but feeling some stress,high
+155,Electrical Engineering,2,6.5,3.9,9.2,9,7,1.5,0,4,7,Too many assignments and exams causing fatigue,high
+156,Electronics Engineering,2,8.5,3.3,5.7,4,9,0.4,3,1,9,Feeling relaxed and focused,medium
+157,Civil Engineering,4,3.5,3.5,7,2,7,1.9,3,5,3,Feeling relaxed and focused,low
+158,Civil Engineering,3,8.3,8.7,8,7,1,0.7,0,2,2,Managing studies but feeling some stress,high
+159,Information Technology,3,6.3,4.7,2.3,6,8,0.7,2,5,3,Managing studies but feeling some stress,medium
+160,Electrical Engineering,2,4,4.5,9.2,1,4,0.3,3,3,9,Feeling relaxed and focused,low
+161,Mechanical Engineering,3,5.5,3.8,8.9,9,3,0.6,1,3,7,Too many assignments and exams causing fatigue,high
+162,Mechanical Engineering,1,7.7,6.9,5.7,9,7,1.8,0,3,9,Too many assignments and exams causing fatigue,high
+163,Electronics Engineering,2,5.9,5,5.1,2,3,2,4,5,2,Feeling relaxed and focused,low
+164,Information Technology,3,8.9,8,4.2,3,8,0.7,2,4,5,Feeling relaxed and focused,low
+165,Computer Engineering,2,5.3,3.6,5.8,5,6,0.9,0,2,4,Managing studies but feeling some stress,medium
+166,Electronics Engineering,1,7.5,8.3,2.4,5,5,1.4,4,3,2,Managing studies but feeling some stress,medium
+167,Information Technology,2,5.4,6.8,8.8,1,4,1.8,4,3,9,Feeling relaxed and focused,low
+168,Electrical Engineering,2,8,2.9,2.3,8,8,1.2,3,3,9,Too many assignments and exams causing fatigue,high
+169,Electrical Engineering,2,6.4,5.3,4.6,8,8,0.8,3,2,6,Too many assignments and exams causing fatigue,high
+170,Electrical Engineering,2,3.4,8.9,9.5,4,1,0.8,3,3,6,Feeling relaxed and focused,medium
+171,Electrical Engineering,1,3.2,9.4,7.9,7,9,1.4,0,2,8,Managing studies but feeling some stress,high
+172,Electrical Engineering,4,3.8,5.7,4.3,10,5,0,0,3,6,Too many assignments and exams causing fatigue,high
+173,Information Technology,2,3.1,5.8,4,3,4,1.2,2,5,1,Feeling relaxed and focused,low
+174,Information Technology,2,3.5,9.3,2,6,6,0.7,3,5,4,Managing studies but feeling some stress,medium
+175,Civil Engineering,3,7.2,6.7,7.6,10,6,1.6,4,2,7,Too many assignments and exams causing fatigue,high
+176,Mechanical Engineering,2,6.2,2.3,2.4,10,2,0.2,1,5,2,Too many assignments and exams causing fatigue,high
+177,Electrical Engineering,3,7.5,9.3,6.3,9,8,1.2,2,2,9,Too many assignments and exams causing fatigue,high
+178,Computer Engineering,4,8.5,4,9.7,1,7,1,0,5,8,Feeling relaxed and focused,low
+179,Information Technology,1,6.5,6.6,2.9,5,1,1.3,2,5,8,Managing studies but feeling some stress,medium
+180,Computer Engineering,1,7.4,3.3,9.2,4,5,0.1,2,2,7,Feeling relaxed and focused,medium
+181,Computer Engineering,4,7.5,2.3,9.9,8,6,1.2,2,4,4,Too many assignments and exams causing fatigue,high
+182,Computer Engineering,1,5.3,4.5,2.5,1,4,1.1,2,5,2,Feeling relaxed and focused,low
+183,Civil Engineering,4,4.4,8.2,9.1,9,2,1.1,1,3,3,Too many assignments and exams causing fatigue,high
+184,Information Technology,4,4.2,4.2,6.1,6,4,1.2,3,4,6,Managing studies but feeling some stress,medium
+185,Computer Engineering,4,4.5,3.8,9.3,4,1,1.4,4,2,5,Feeling relaxed and focused,medium
+186,Electrical Engineering,1,4.6,3.7,6.6,9,7,1.6,2,4,8,Too many assignments and exams causing fatigue,high
+187,Electronics Engineering,3,4.2,6.1,7.3,5,2,0.5,2,1,6,Managing studies but feeling some stress,medium
+188,Computer Engineering,4,8.3,9.8,6.4,5,2,1.7,2,1,6,Managing studies but feeling some stress,medium
+189,Civil Engineering,2,7.5,5.7,8.9,5,9,1,3,5,1,Managing studies but feeling some stress,medium
+190,Information Technology,1,3.3,6.5,7.9,1,5,0.2,0,5,4,Feeling relaxed and focused,low
+191,Civil Engineering,4,4.6,8.9,6.2,1,2,0.1,0,3,5,Feeling relaxed and focused,low
+192,Computer Engineering,4,3.1,6.3,8.9,8,9,0.7,1,4,3,Too many assignments and exams causing fatigue,high
+193,Information Technology,2,6,3.5,4,8,9,1.6,0,1,9,Too many assignments and exams causing fatigue,high
+194,Electronics Engineering,3,5.9,4.4,3.3,6,1,1.4,2,5,1,Managing studies but feeling some stress,medium
+195,Computer Engineering,3,8,4.5,3.3,4,3,1.6,2,4,6,Feeling relaxed and focused,medium
+196,Civil Engineering,3,4.8,5.2,4.7,2,4,1,2,5,6,Feeling relaxed and focused,low
+197,Mechanical Engineering,4,7.9,5.4,3.9,2,7,0.9,1,5,5,Feeling relaxed and focused,low
+198,Electrical Engineering,4,8.8,8.4,9.4,9,4,0.3,2,1,5,Too many assignments and exams causing fatigue,high
+199,Civil Engineering,4,3.5,4.8,2.8,5,2,0.7,0,1,5,Managing studies but feeling some stress,medium
+200,Information Technology,1,7.8,5.7,7.6,4,7,0.9,3,5,6,Feeling relaxed and focused,medium
+201,Computer Engineering,2,6.5,7,3.5,10,6,0.2,3,2,8,Too many assignments and exams causing fatigue,high
+202,Electrical Engineering,4,5.9,5,9.1,1,3,0.4,4,5,2,Feeling relaxed and focused,low
+203,Computer Engineering,2,5.5,8.7,9.7,7,6,1.2,0,5,6,Managing studies but feeling some stress,high
+204,Information Technology,2,7.7,6.7,5.7,3,6,1.5,2,3,1,Feeling relaxed and focused,low
+205,Computer Engineering,3,6.8,4.4,9,6,5,2,3,3,4,Managing studies but feeling some stress,medium
+206,Mechanical Engineering,1,7.8,7.7,2,5,4,1.9,0,3,3,Managing studies but feeling some stress,medium
+207,Electrical Engineering,4,8.4,6.2,8.6,5,1,1.3,3,2,9,Managing studies but feeling some stress,medium
+208,Electrical Engineering,3,6.7,6.3,3.8,5,6,0.8,2,2,3,Managing studies but feeling some stress,medium
+209,Information Technology,3,8.9,5.8,9.3,1,2,1.3,3,5,6,Feeling relaxed and focused,low
+210,Mechanical Engineering,4,6.6,6,2,1,3,1.6,4,3,1,Feeling relaxed and focused,low
+211,Civil Engineering,2,6.8,8.1,6.4,3,8,0.2,4,2,6,Feeling relaxed and focused,low
+212,Computer Engineering,3,6.3,2.8,8.1,10,6,0.8,3,1,4,Too many assignments and exams causing fatigue,high
+213,Electronics Engineering,2,3.5,4.7,4.1,4,3,1.7,0,5,8,Feeling relaxed and focused,medium
+214,Computer Engineering,1,7.4,2.6,3.5,5,7,0.8,0,4,9,Managing studies but feeling some stress,medium
+215,Computer Engineering,2,6.3,8,2.7,2,4,1.1,0,5,4,Feeling relaxed and focused,low
+216,Civil Engineering,1,5.7,4.2,4.6,8,9,1.2,3,4,6,Too many assignments and exams causing fatigue,high
+217,Computer Engineering,2,8.5,9.2,6.5,2,5,0.4,0,3,1,Feeling relaxed and focused,low
+218,Mechanical Engineering,3,4.8,6.2,2.9,9,3,0.7,2,4,4,Too many assignments and exams causing fatigue,high
+219,Mechanical Engineering,3,6.1,8.4,5,2,2,0.7,4,3,7,Feeling relaxed and focused,low
+220,Electrical Engineering,1,7.2,9.8,2.1,9,2,0.1,2,1,1,Too many assignments and exams causing fatigue,high
+221,Information Technology,4,7.8,8.7,8.5,7,3,0,0,4,8,Managing studies but feeling some stress,high
+222,Electronics Engineering,1,5.8,8.9,3,8,2,1.7,2,5,6,Too many assignments and exams causing fatigue,high
+223,Computer Engineering,1,8.1,5.3,4.3,2,4,0.5,0,3,5,Feeling relaxed and focused,low
+224,Computer Engineering,2,7.6,6.4,2.1,7,2,1,3,5,9,Managing studies but feeling some stress,high
+225,Civil Engineering,2,3.4,4,5.5,6,9,0.6,2,2,2,Managing studies but feeling some stress,medium
+226,Information Technology,1,3.3,3.6,8.7,4,2,1.9,3,3,5,Feeling relaxed and focused,medium
+227,Mechanical Engineering,3,6.7,6,5.1,7,9,0.5,3,4,6,Managing studies but feeling some stress,high
+228,Electronics Engineering,2,5.1,6.8,3.4,4,6,0.9,1,3,7,Feeling relaxed and focused,medium
+229,Electrical Engineering,4,4.3,4.7,8,2,1,1.7,0,5,5,Feeling relaxed and focused,low
+230,Mechanical Engineering,2,6.5,6.6,8.3,10,4,1.7,4,1,9,Too many assignments and exams causing fatigue,high
+231,Information Technology,2,5,9.1,3.4,7,1,0.4,0,3,1,Managing studies but feeling some stress,high
+232,Electrical Engineering,4,6.2,6.5,8.2,8,6,1.6,4,4,7,Too many assignments and exams causing fatigue,high
+233,Civil Engineering,1,5.8,7.8,9.6,2,4,0.9,0,2,7,Feeling relaxed and focused,low
+234,Civil Engineering,4,6.5,8.4,3.3,5,3,1,3,1,4,Managing studies but feeling some stress,medium
+235,Computer Engineering,1,5.4,9.9,8.2,1,3,0.3,2,2,9,Feeling relaxed and focused,low
+236,Information Technology,1,7.2,6.8,7.7,7,9,0.2,2,3,5,Managing studies but feeling some stress,high
+237,Electronics Engineering,1,4.1,8.5,5.8,8,6,1.5,1,5,4,Too many assignments and exams causing fatigue,high
+238,Electrical Engineering,4,7.2,9.7,2.5,6,9,1,4,5,7,Managing studies but feeling some stress,medium
+239,Mechanical Engineering,1,5.5,9.6,2.6,5,5,0.9,4,4,4,Managing studies but feeling some stress,medium
+240,Information Technology,3,8.2,3.1,8.8,6,2,1.5,4,5,3,Managing studies but feeling some stress,medium
+241,Information Technology,4,6.1,5.3,9.9,2,8,1.5,3,1,9,Feeling relaxed and focused,low
+242,Civil Engineering,3,8.8,4.6,7.4,1,5,0.3,4,5,8,Feeling relaxed and focused,low
+243,Computer Engineering,1,6.6,2.7,5.6,7,2,1.2,2,4,1,Managing studies but feeling some stress,high
+244,Computer Engineering,2,4.3,7.1,7.2,7,4,0.3,3,3,7,Managing studies but feeling some stress,high
+245,Electrical Engineering,1,7.9,7.9,6.8,10,9,1.5,0,3,9,Too many assignments and exams causing fatigue,high
+246,Civil Engineering,3,5.1,8.8,5.1,10,4,1.3,4,5,8,Too many assignments and exams causing fatigue,high
+247,Information Technology,3,5.1,3,2.5,2,4,1.9,4,2,8,Feeling relaxed and focused,low
+248,Electronics Engineering,4,3.2,9,8.6,2,2,0.1,0,3,6,Feeling relaxed and focused,low
+249,Civil Engineering,2,6.3,7.1,5,1,6,0.1,4,5,4,Feeling relaxed and focused,low
+250,Electrical Engineering,4,6.2,7.6,8.6,10,2,0.6,0,4,8,Too many assignments and exams causing fatigue,high
+251,Electrical Engineering,3,5.1,9.3,4,8,7,0.5,3,5,3,Too many assignments and exams causing fatigue,high
+252,Civil Engineering,1,8.4,7,2,8,3,0.5,2,3,9,Too many assignments and exams causing fatigue,high
+253,Electrical Engineering,2,3.8,4.7,3.3,1,3,1.8,0,4,2,Feeling relaxed and focused,low
+254,Civil Engineering,1,5,8.6,5.7,8,5,0.5,1,5,2,Too many assignments and exams causing fatigue,high
+255,Mechanical Engineering,1,4.9,4.9,9.6,9,3,0.5,0,1,7,Too many assignments and exams causing fatigue,high
+256,Civil Engineering,2,3.6,2.3,2.8,4,2,1.5,4,4,4,Feeling relaxed and focused,medium
+257,Civil Engineering,4,5.9,8.6,8.8,1,9,0.9,3,1,8,Feeling relaxed and focused,low
+258,Electrical Engineering,1,7.1,4.8,6.2,1,2,1.6,3,2,9,Feeling relaxed and focused,low
+259,Electrical Engineering,3,6.1,8.2,8.6,3,2,0.1,0,4,7,Feeling relaxed and focused,low
+260,Computer Engineering,1,3.9,4.9,4.4,5,8,1,2,1,5,Managing studies but feeling some stress,medium
+261,Computer Engineering,2,5.3,8.9,8.7,5,9,0.1,1,3,8,Managing studies but feeling some stress,medium
+262,Mechanical Engineering,2,3,3.8,8.2,9,7,0.1,3,3,4,Too many assignments and exams causing fatigue,high
+263,Computer Engineering,2,8.2,9.8,3.8,10,3,1.8,4,2,2,Too many assignments and exams causing fatigue,high
+264,Civil Engineering,4,3.5,8.2,3.1,2,9,0.3,4,4,6,Feeling relaxed and focused,low
+265,Electrical Engineering,1,6.6,2.9,8.9,2,3,1.1,2,4,9,Feeling relaxed and focused,low
+266,Computer Engineering,4,8.9,6.5,9.7,6,5,0.8,3,4,1,Managing studies but feeling some stress,medium
+267,Computer Engineering,4,6.2,9.9,2.3,9,9,0.7,0,2,7,Too many assignments and exams causing fatigue,high
+268,Mechanical Engineering,2,8.5,5.8,7.9,1,3,1.8,4,4,9,Feeling relaxed and focused,low
+269,Information Technology,2,4.4,3.5,9.3,9,7,0,2,3,9,Too many assignments and exams causing fatigue,high
+270,Mechanical Engineering,4,7.6,5.9,8.9,9,1,1.3,3,1,3,Too many assignments and exams causing fatigue,high
+271,Civil Engineering,1,6.2,6.1,9.7,9,4,1.9,3,3,5,Too many assignments and exams causing fatigue,high
+272,Electrical Engineering,3,7.3,7.9,8.1,5,4,1.1,3,3,8,Managing studies but feeling some stress,medium
+273,Mechanical Engineering,4,3.4,7.6,5.5,9,7,1.9,3,1,8,Too many assignments and exams causing fatigue,high
+274,Computer Engineering,1,3.9,5.2,4.5,4,8,0.1,3,3,4,Feeling relaxed and focused,medium
+275,Electrical Engineering,2,3.8,3.7,4.6,2,1,0.8,4,2,1,Feeling relaxed and focused,low
+276,Electrical Engineering,2,7.1,7.2,7.8,6,5,0.5,2,1,1,Managing studies but feeling some stress,medium
+277,Computer Engineering,1,8.1,5.4,8,4,7,1.5,3,3,4,Feeling relaxed and focused,medium
+278,Mechanical Engineering,3,7.5,3.1,3.6,6,4,2,1,5,6,Managing studies but feeling some stress,medium
+279,Computer Engineering,2,3.2,9.2,8.9,3,4,0.5,1,3,8,Feeling relaxed and focused,low
+280,Information Technology,2,8.2,7.5,7.7,6,4,1.3,2,2,6,Managing studies but feeling some stress,medium
+281,Electrical Engineering,2,5.1,7.5,6.5,2,6,0.4,0,4,9,Feeling relaxed and focused,low
+282,Electronics Engineering,1,5.4,8.6,5.8,2,7,1.1,0,3,9,Feeling relaxed and focused,low
+283,Electronics Engineering,4,3.6,6.2,6.3,9,2,0.9,0,4,2,Too many assignments and exams causing fatigue,high
+284,Civil Engineering,2,7.4,8.5,3.3,7,5,1.9,1,5,1,Managing studies but feeling some stress,high
+285,Computer Engineering,4,4.1,6,3.6,3,4,1.2,0,3,2,Feeling relaxed and focused,low
+286,Computer Engineering,3,6.4,2.5,2.7,1,3,0.7,4,1,5,Feeling relaxed and focused,low
+287,Civil Engineering,2,8,5.2,3.2,8,7,0.2,3,4,4,Too many assignments and exams causing fatigue,high
+288,Civil Engineering,2,3.5,6,5.6,6,6,0.3,1,5,4,Managing studies but feeling some stress,medium
+289,Civil Engineering,3,6.2,7.8,6.2,7,7,0.5,2,1,9,Managing studies but feeling some stress,high
+290,Electrical Engineering,2,4.4,2.9,2.1,9,5,0.5,2,1,8,Too many assignments and exams causing fatigue,high
+291,Information Technology,4,5.1,3.1,8.4,5,6,1.7,3,1,6,Managing studies but feeling some stress,medium
+292,Computer Engineering,1,5.8,4.1,4.4,1,5,1.1,1,1,1,Feeling relaxed and focused,low
+293,Electrical Engineering,4,5.1,4.1,9.3,10,7,1,0,3,2,Too many assignments and exams causing fatigue,high
+294,Civil Engineering,1,6.9,7.9,9.7,7,2,0.2,0,3,6,Managing studies but feeling some stress,high
+295,Computer Engineering,1,5.9,4,3.5,5,5,1.7,4,3,2,Managing studies but feeling some stress,medium
+296,Electrical Engineering,4,6.5,7.1,5.7,3,6,1.4,4,5,5,Feeling relaxed and focused,low
+297,Information Technology,4,7.4,6,2,9,6,0.1,0,5,5,Too many assignments and exams causing fatigue,high
+298,Electrical Engineering,4,6.3,6.6,6.8,1,5,1.4,2,5,6,Feeling relaxed and focused,low
+299,Information Technology,4,6.5,8.7,6.9,1,7,1.1,2,2,6,Feeling relaxed and focused,low
+300,Civil Engineering,3,6.4,5.2,4,1,8,0.2,4,5,6,Feeling relaxed and focused,low
